@@ -1,2 +1,2 @@
 # Fantasy-Cricket-League
-Just run finalmn.py for result
+#Just run finalmn.py for result
